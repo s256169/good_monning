@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="text_hello">こんにちは</string>
+    <string name="text_evening">こんばんは</string>
+</resources>
